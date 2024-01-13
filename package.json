@@ -23,6 +23,7 @@
     "method-override": "^3.0.0",
     "middleware": "^1.0.0",
     "mongodb": "^6.3.0",
-    "mongose": "^0.0.2-security"
+    "mongose": "^0.0.2-security",
+    "node-emoji": "^2.1.3"
   }
 }
